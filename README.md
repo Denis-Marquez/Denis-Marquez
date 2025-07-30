@@ -9,9 +9,9 @@
 • Windows Server - AD / GPOs / IIS / File Server  / Hyper-V<br>
 • Suporte ao ERP TOTVS Varejo (Consinco e AcruxPDV)<br>
 • Conhecimento em Linux (CentOS / Slack / Ubuntu)<br>
-• Conhecimento em SQL Server e PL/SQL<br>
-• Microsoft 365 e Google Workspace<br>
+• Conhecimento em SQL, Mysql e PL/SQL<br>
 • Desenvolvedor fullstack javascript<br>
+• Microsoft 365 e Google Workspace<br>
 • Monitoramento Zabbix & Grafana<br>
 • Domínio em Microsoft Windows<br>
 • Cloud Azure e GCP<br>
