@@ -4,7 +4,7 @@
 
 ![My Skills](https://skillicons.dev/icons?i=windows,linux,html,css,js,react,nodejs,python,mysql,github,grafana,azure,gcp)
 
-*Atualmente como Desenvolvedor & Suporte* <p>
+*Atualmente sou Analista Desenvolvedor & Suporte* <p>
 
 • Windows Server - AD / GPOs / IIS / File Server  / Hyper-V<br>
 • Suporte ao ERP TOTVS Varejo (Consinco e AcruxPDV)<br>
