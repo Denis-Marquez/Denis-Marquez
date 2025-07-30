@@ -1,6 +1,6 @@
-## Hi there 👋
+## Olá eu sou Denis 👋
 
-*Minhas Skills*
+## 📌*Minhas Skills* 📌
 
 ![My Skills](https://skillicons.dev/icons?i=windows,linux,html,css,js,react,nodejs,python,mysql,github,grafana,azure,gcp)
 
@@ -16,8 +16,33 @@
 • Domínio em Microsoft Windows<br>
 • Cloud Azure e GCP<br>
 
+---
+
+### 📊 Estatísticas
+
+<center>
+<p>
+  <img 
+    alt="GitHub Stats" 
+    height="150" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=bug-it&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+<img 
+      alt="GitHub Stats" 
+      height="150" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=bug-it&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
+  />
+</p>
+</center>
+
+---
+
 
 ## 🌐 Contatos:
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/denison-marques/) 
 [![Codepen](https://skillicons.dev/icons?i=codepen)](https://codepen.io/denison-marques) 
 [![gcp](https://skillicons.dev/icons?i=gcp)](mailto:denisom.m@gmail.com)
+
+
+✨ Obrigado por visitar meu perfil!
