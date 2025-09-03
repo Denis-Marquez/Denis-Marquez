@@ -2,7 +2,7 @@
 
 # 📌*Minhas Skills* 📌
 
-![My Skills](https://skillicons.dev/icons?i=windows,linux,html,js,typescript,react,nodejs,python,mysql,github,plsql,gcp)
+![My Skills](https://skillicons.dev/icons?i=windows,linux,html,js,typescript,react,nodejs,python,mysql,github,wordpress,gcp)
 
 *Atualmente sou Analista Desenvolvedor & Suporte* <p>
 
@@ -14,7 +14,7 @@
 • Microsoft 365 e Google Workspace<br>
 • Monitoramento Zabbix & Grafana<br>
 • Domínio em Microsoft Windows<br>
-• Cloud Azure e GCP<br>
+• Cloud Oracle e GCP<br>
 
 
 
