@@ -2,7 +2,7 @@
 
 # 📌*Minhas Skills* 📌
 
-![My Skills](https://skillicons.dev/icons?i=windows,linux,html,js,typescript,react,nodejs,python,mysql,github,oracle,gcp)
+![My Skills](https://skillicons.dev/icons?i=windows,linux,html,js,typescript,react,nodejs,python,mysql,github,oci,gcp)
 
 *Atualmente sou Analista Desenvolvedor & Suporte* <p>
 
