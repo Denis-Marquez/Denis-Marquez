@@ -2,15 +2,19 @@
 
 # 📌*Minhas Skills* 📌
 
-![My Skills](https://skillicons.dev/icons?i=windows,linux,html,js,typescript,react,nodejs,python,mysql,github,wordpress,gcp)
+![My Skills](https://skillicons.dev/icons?i=windows,linux,html,css,js,typescript,react,vite,jest,vercel,mysql,github,wordpress,gcp)
 
 *Atualmente sou Analista Desenvolvedor & Suporte* <p>
 
-• Windows Server - AD / GPOs / IIS / File Server  / Hyper-V<br>
-• Suporte ao ERP TOTVS Varejo (Consinco e AcruxPDV)<br>
+• Desenvolvimento Web<br>
+• Front-End (html, css, javascript, react, vite, wordpress)<br>
+• Criação de aplicativos e sistemas com Lovable e Claude.<br>
+• Integração de Inteligência Artificial no Front-End<br>
+• testes com Playwright e Jest<br>
+• Consumo de APIs<br>
+• deploy em Vercel, VPS (locaweb, Hostgator, godaddy)<br>
 • Conhecimento em Linux (CentOS / Slack / Ubuntu)<br>
 • Conhecimento em SQL, Mysql e PL/SQL<br>
-• Desenvolvedor fullstack javascript<br>
 • Microsoft 365 e Google Workspace<br>
 • Monitoramento Zabbix & Grafana<br>
 • Domínio em Microsoft Windows<br>
