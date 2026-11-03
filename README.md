@@ -27,6 +27,6 @@
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/denison-marques/) 
 [![Codepen](https://skillicons.dev/icons?i=codepen)](https://codepen.io/denison-marques) 
 [![gcp](https://skillicons.dev/icons?i=gcp)](mailto:denisom.m@gmail.com)
-
+[![htmx](https://skillicons.dev/icons?i=htmx)](mailto:denisom.m@gmail.com)
 
 ✨ Obrigado por visitar meu perfil!
